@@ -15,7 +15,7 @@ const ResultScreen = ({result}) => {
         <Text>You Lose {result}</Text>
       </Cards>
       <Image style={styles.imagecointainer}
-        source={{uri "htttps://img.freepik.com/vector-gratis/juego-terminado-efec.com"}}
+        source={{uri "https://img.freepik.com/vector-gratis/juego-terminado-efec.com"}}
       />
     </View>
   );
